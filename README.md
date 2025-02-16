@@ -20,6 +20,7 @@ hand-detection/
 └── README.md
 
 ````
+<p>Silahkan unduh yolov3.weights untuk ditempatkan di yolo/yolov3.weights, karena file ini tidak dapat diunduh secara langsung dari repository ini.</p>
 
 ## run python
 
