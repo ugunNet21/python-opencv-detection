@@ -1,3 +1,23 @@
+
+## Struktur
+
+hand-detection/
+├── face/
+│   ├── caffe.py
+│   ├── cascades.py
+│   ├── deploy.prototxt
+│   └── res10_300x300_ssd_iter_140000.caffemodel
+├── hand-detect/
+│   └── hand-detection.py
+├── yolo/
+│   ├── coco.names
+│   ├── yolo.py
+│   ├── yolov3.cfg
+│   └── yolov3.weights
+├── .gitignore
+├── .gitattributes
+└── README.md
+
 ## run python
 
 - python3 -m venv venv
