@@ -1,0 +1,38 @@
+# Ignore virtual environment
+venv/
+
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Other common Python-related files
+*.log
+*.db
+*.sqlite3
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# Ignore YOLOv3 weights file
+yolo/yolov3.weights
+
+# Ignore local configuration files
+.env
+.env.local
+
+# Ignore distribution and build folders
+dist/
+build/
+*.egg-info/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore macOS-specific files
+.DS_Store
+
+# Ignore Windows-specific files
+Thumbs.db
