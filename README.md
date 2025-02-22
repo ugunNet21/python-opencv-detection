@@ -50,4 +50,6 @@ hand-detection/
 ````
 - pip install yt-dlp
 - run python unduh-yt.py
+- sudo apt-get install python3-tk
+- pip install tk
 ````
