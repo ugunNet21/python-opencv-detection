@@ -44,3 +44,10 @@ hand-detection/
 - https://github.com/patrick013/Object-Detection---Yolov3/blob/master/model/yolov3.weights
 
 ````
+
+## run unduh yt
+
+````
+- pip install yt-dlp
+- run python unduh-yt.py
+````
