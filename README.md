@@ -53,3 +53,12 @@ hand-detection/
 - sudo apt-get install python3-tk
 - pip install tk
 ````
+
+## run wifi
+
+````
+- sudo apt-get install firefox
+- pip install selenium
+- pip install scapy
+
+````
