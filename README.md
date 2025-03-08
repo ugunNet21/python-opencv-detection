@@ -62,3 +62,10 @@ hand-detection/
 - pip install scapy
 
 ````
+
+## game
+
+````
+- pip install pygame
+
+````
